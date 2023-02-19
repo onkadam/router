@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/router/static/js/main.b449d001.js",
+    "index.html": "/router/index.html",
+    "main.b449d001.js.map": "/router/static/js/main.b449d001.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b449d001.js"
+  ]
+}
